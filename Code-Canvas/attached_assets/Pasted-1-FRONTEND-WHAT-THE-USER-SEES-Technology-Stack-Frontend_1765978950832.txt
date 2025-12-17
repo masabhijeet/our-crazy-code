@@ -1,0 +1,1075 @@
+1️⃣ FRONTEND (WHAT THE USER SEES)
+Technology Stack (Frontend)
+
+HTML5
+
+Tailwind CSS
+
+JavaScript (vanilla)
+
+Responsive (mobile-first)
+
+Clean, professional, startup-style UI
+
+LOGO (FINAL DIRECTION)
+
+Logo Name: Our Crazy Code
+Style:
+
+Minimal
+
+Modern tech typography
+
+Icon idea: { }, </>, or a lightning/rocket abstract mark
+
+Colors: Dark Blue / Black + Accent Blue
+
+Placement:
+
+Top-left of navbar
+
+Footer
+
+Checkout page
+
+Email templates
+
+NAVIGATION BAR
+
+Fixed, minimal, professional.
+
+Menu Items (exact):
+
+Home
+
+Courses
+
+Programs
+
+About
+
+Success Stories
+
+Contact
+
+Enroll Now (Primary CTA button)
+
+2️⃣ HOME PAGE (DETAILED CONTENT)
+HERO SECTION
+
+Headline:
+
+only Become Top 1% in the AI 
+
+Subheadline:
+
+🚀 Built by a 15-year-old • Trusted by 5,000+ Students
+
+Primary CTA:
+
+View Courses
+
+Enroll Now
+
+Secondary CTA:
+
+Book Free Consultation
+
+TRUST INDICATORS
+
+“5,000+ Students Trained”
+
+“Global Learning Community”
+
+“Industry-Relevant Curriculum”
+
+“Project-Based Learning”
+
+WHAT WE DO
+
+Title: What We Offer
+
+Content:
+Our Crazy Code delivers structured, outcome-driven education in coding, artificial intelligence, and emerging technologies. Programs are designed to build real-world skills through practical projects, expert mentorship, and industry-aligned learning paths.
+
+FEATURED PROGRAMS (SUMMARY)
+
+Coding Foundations
+
+Artificial Intelligence 
+Web Development
+
+App Development
+
+Competitive Programming
+
+Startup & Tech Innovation
+Generative AI Marketing Mastermind
+Duration
+2 Days
+
+
+Generative AI Business Mastermind
+Generative AI Business Mastermind
+Duration
+3 Days
+
+
+
+Generative AI Workshop
+Generative AI Workshop
+Duration
+3 Hours
+
+
+AI For Consultants
+AI For Consultants
+Duration
+3 Hours
+
+
+LinkedIn Growth With AI
+LinkedIn Growth With AI
+Duration
+5 Days
+
+
+Founder Growth School
+
+Product Management With AI
+Product Management With AI
+Duration
+3 Hours
+
+
+Product Manager at Google
+
+CTA: Explore All Courses
+
+3️⃣ COURSES PAGE (FULL DETAILS)
+COURSE 1: Coding Foundations
+
+Duration: 3 Months
+Level: Beginner to Intermediate
+
+What You Learn:
+
+Programming fundamentals
+
+Logic building
+
+Problem-solving
+
+Python basics
+
+Introduction to algorithms
+
+Includes:
+
+Live classes
+
+Weekly assignments
+
+Capstone project
+
+Certificate
+
+Price: ₹6,999 / $89
+
+COURSE 2: Web Development (Full Stack)
+
+Duration: 4 Months
+Level: Intermediate
+
+Technologies:
+
+HTML, CSS, JavaScript
+
+Tailwind CSS
+
+React.js
+
+Node.js
+
+MongoDB
+
+Outcome:
+
+
+
+4️⃣ COURSE BOOKING & ENROLLMENT FLOW (FRONTEND)
+ENROLLMENT STEPS
+
+Select Course
+
+Choose Batch
+
+Enter Details
+
+Secure Payment
+
+Confirmation Email
+
+Dashboard Access
+
+PAYMENT OPTIONS
+
+Credit/Debit Cards
+
+UPI
+
+Net Banking
+
+International Cards 
+example 
+Generative AI Marketing Mastermind
+Register Now
+₹1,999
+₹ 499
+Generative AI Marketing Mastermind
+Learn the Basics of Digital Marketing in One Day
+
+Date for Workshop
+
+Coming Soon
+
+Time for Workshop
+
+10 AM IST
+
+Duration
+
+2 Days
+
+Mentors
+
+Priyanku Sarmah
+Priyanku Sarmah
+
+Visual Art Director, Samur AI
+
+Raghuveer Nishtala
+Raghuveer Nishtala
+
+Brand Marketer, Uber
+
++2 more
+This is a certified workshop
+BECOME A CERTIFIED EXPERT
+
+Certificate
+400k+ learners
+HAVE BENEFITTED
+
+Learners
+Learn insider hacks
+HELP BOOST YOUR PRODUCTIVITY
+
+Insider Hacks
+Learn only from top mentors
+HERE TO HELP YOU THROUGH EVERY STEP
+
+Mentor 1
+Mentor 2
+Mentor 3
+Mentor 4
+Mentor 5
+Mentor 6
+Mentor 7
+Mentor 8
+Mentor 9
+Mentor 10
+Mentor 11
+Mentor 12
+Mentor 13
+Mentor 14
+Mentor 15
+Mentor 16
+Mentor 17
+Mentor 18
+Mentor 19
+Mentor 20
+Mentor 21
+Mentor 22
+Mentor 23
+Mentor 24
+Mentor 25
+Mentor 26
+Mentor 27
+Mentor 28
+Mentor 29
+Mentor 30
+Mentor 31
+Mentor 32
+Mentor 33
+Mentor 34
+Mentor 35
+Mentor 36
+Mentor 37
+Mentor 38
+Mentor 39
+Mentor 40
+Mentor 41
+Mentor 42
+Mentor 43
+Mentor 44
+Mentor 45
+Mentor 46
+Mentor 47
+Mentor 48
+Mentor 49
+Mentor 50
+Mentor 51
+Mentor 52
+Mentor 53
+Mentor 54
+Mentor 55
+Mentor 56
+Mentor 57
+Mentor 58
+Mentor 59
+Mentor 60
+Mentor 61
+Mentor 62
+Mentor 63
+Mentor 64
+Mentor 65
+Mentor 66
+Mentor 67
+Mentor 68
+Mentor 69
+Mentor 70
+Mentor 71
+Mentor 72
+Mentor 73
+Mentor 74
+Mentor 75
+Mentor 76
+Mentor 77
+Mentor 78
+Mentor 79
+Mentor 80
+Mentor 81
+Mentor 82
+Mentor 83
+Mentor 84
+Mentor 85
+Mentor 86
+Mentor 87
+Mentor 88
+Mentor 89
+Mentor 90
+Mentor 91
+Mentor 92
+Mentor 93
+Mentor 94
+Mentor 95
+Mentor 96
+Mentor 97
+Mentor 98
+Mentor 99
+Mentor 100
+Mentor 101
+Mentor 102
+Mentor 103
+Mentor 104
+Mentor 105
+Mentor 106
+Mentor 107
+Mentor 108
+Mentor 109
+Mentor 110
+Mentor 111
+Mentor 112
+Mentor 113
+Mentor 114
+Mentor 115
+Mentor 116
+Mentor 117
+Mentor 118
+Mentor 119
+Mentor 120
+Mentor 121
+Mentor 122
+Mentor 123
+Mentor 124
+Mentor 125
+Mentor 126
+Mentor 127
+Mentor 128
+Mentor 129
+Mentor 130
+Mentor 131
+Mentor 132
+Mentor 133
+Mentor 134
+Mentor 135
+Mentor 136
+Mentor 137
+Mentor 138
+Mentor 139
+Mentor 140
+Mentor 141
+Mentor 142
+Mentor 143
+Mentor 144
+Mentor 145
+Mentor 146
+Mentor 147
+Mentor 148
+Mentor 149
+Mentor 150
+Mentor 151
+Mentor 152
+Mentor 153
+Mentor 154
+Mentor 155
+Mentor 156
+Mentor 157
+Mentor 158
+Mentor 159
+Mentor 160
+Mentor 161
+Mentor 162
+Mentor 163
+Mentor 164
+Mentor 165
+Mentor 166
+Mentor 167
+Mentor 168
+Mentor 169
+Mentor 170
+Mentor 171
+Mentor 172
+Mentor 173
+Mentor 174
+Mentor 175
+Mentor 176
+Mentor 177
+Mentor 178
+Mentor 179
+Mentor 180
+Mentor 181
+Mentor 182
+Mentor 183
+Mentor 184
+Mentor 185
+Mentor 186
+Mentor 187
+Mentor 188
+Mentor 189
+Mentor 190
+Mentor 191
+Mentor 192
+Mentor 193
+Mentor 194
+Mentor 195
+Mentor 196
+Mentor 197
+Mentor 198
+Key Outcomes
+Master the core principles and practical skills of product management through a comprehensive learning journey covering the entire product lifecycle, from ideation to launch, led by experienced product leaders from top tech companies.
+
+•
+Develop a strategic mindset for identifying market opportunities and customer pain points
+•
+Create effective product documentation including PRDs, user stories, and roadmaps
+Read More
+What will you learn?
+
+MODULE 1
+
+Your Personal AI MARKETING ASSISTANT That Works 24/7
+
+MODULE 2
+
+The NO-CODE AUTOMATION BLUEPRINT That Saves 15+ Hours/Week
+
+MODULE 3
+
+The VISUAL MARKETING MASTERY System:
+
+MODULE 4
+
+The ONE-PERSON ARMY Marketing Blueprint:
+
+MODULE 5
+
+The AI TOOL BLACK BOOK (35+ Cutting-Edge Tools):
+
+MODULE 6
+
+The PERFECT PROMPT FORMULA For Guaranteed Results:
+
+MODULE 7
+
+The SET & FORGET Lead Generation System
+
+MODULE 8
+
+Your Custom 2025 AI MARKETING ROADMAP
+Still wondering If this Mastermind is for you?
+Whether you're just starting out, climbing the ladder, or leading the way, this workshop is designed for ambitious business professionals:
+
+Entrepreneurs
+Founders
+Senior Managers
+Leaders
+Tech-Curious Professionals
+Consultants & Specialists
+Before you ask!
+Yes! You will be certified for this program.
+
+Growth School Certificate
+Frequently Asked Questions
+
+When is the Marketing Mastermind?
+
+How will the mastermind sessions be conducted?
+
+Is the event completely online?
+
+Why can't I receive a recording of the sessions?
+
+What happens if I can't attend on the scheduled dates?
+
+Is there any preparation needed before the event?
+
+Can I participate if I'm new to Generative AI?
+6.5M+ Learners
+have reaped benefits from our programs
+
+Learner 1
+Learner 2
+Learner 3
+Learner 4
+Learner 5
+Learner 6
+Learner 7
+Learner 8
+Learner 9
+Learner 10
+Learner 11
+Learner 12
+Learner 1
+Learner 2
+Learner 3
+Learner 4
+Learner 5
+Learner 6
+Learner 7
+Learner 8
+Learner 9
+Learner 10
+Learner 11
+Learner 12
+Stay ahead in your field by mastering industry relevant skills through our online sessions
+
+Dive into real challenges from today's businesses, gaining hands-on experience.
+
+Tap into a wealth of career opportunities through our established network.
+
+Growth School Logo
+SUCCESS STORIES
+
+Our Learners at Leading Companies
+
+
+Abhiram
+Abhiram
+Senior Social Media Manager
+
+Ogilvy
+
+arrow
+Senior Social Media Manager
+
+Infinity Learn
+
+Teja Vanama
+Teja Vanama
+Deputy Manager (Geology)
+
+NMDC Limited
+
+arrow
+Assistant Manager
+
+NMDC Limited
+
+Sujay Putta
+Sujay Putta
+Chief Executive Officer
+
+The Kaliq
+
+arrow
+Chief Brand Designer & Founder
+
+SCGB Solutions
+
+Ravi Shankar
+Ravi Shankar
+VP - Products & Marketing
+
+STL - Sterlite Technologies Limited
+
+arrow
+Vice President - Products & Marketing
+
+Skyvera
+
+Aditya Suri
+Aditya Suri
+Senior Associate
+
+alliantgroup
+
+arrow
+Associate Manager
+
+Google Operations Center
+
+Kaustubh Patil
+Kaustubh Patil
+Account Manager- Client Success
+
+CogMat
+
+arrow
+Account Manager - Client Success
+
+LS Digital Group
+
+Praveen Cherian
+Praveen Cherian
+Digital Marketing Specialist
+
+Working on few ideas
+
+arrow
+Digital Marketing Specialist
+
+MCI Onehealth Technologies Inc.
+
+Lakshit Bhayana
+Lakshit Bhayana
+Performance Marketing Manager
+
+Toohot Media
+
+arrow
+Performance Marketing Manager
+
+Z Group Digital
+
+Yatin Malik
+Yatin Malik
+Senior Digital Marketing Manager
+
+SparxIT
+
+arrow
+Senior Marketing Manager
+
+Successive Digital
+
+Anubhav Tyagi
+Anubhav Tyagi
+Senior Brand Manager
+
+B4U Network
+
+arrow
+Senior Brand Manager
+
+Flipkart
+
+Elridge Menezes
+Elridge Menezes
+Senior Business Developer
+
+Coderix
+
+arrow
+Senior Business Developer
+
+Kilowatt
+
+Varun Sisodiya
+Varun Sisodiya
+Senior Marketing Executive
+
+Shaya by CaratLane
+
+arrow
+Assistant Marketing Manager
+
+Shaya by CaratLane
+
+Anshul Seli
+Anshul Seli
+Performance Marketing Manager
+
+Bajaj Finserv
+
+arrow
+Sr. Business Marketing Manager
+
+Emeritus
+
+Sandeep Singh
+Sandeep Singh
+Specialist - Brand & Digital
+
+More Retail Limited
+
+arrow
+Circle Marketing Head
+
+Tupperware Brands
+
+Maietry Prajapati
+Maietry Prajapati
+Growth Marketing Manager
+
+Oureko
+
+arrow
+Product Designer
+
+OnCube
+
+Shikhar Patel
+Shikhar Patel
+Senior Manager
+
+Porter
+
+arrow
+Manager - Growth & Acquisition
+
+Porter
+
+Vijay Bharadwaj
+Vijay Bharadwaj
+Chief Operating officer
+
+Glenmark Aquatic Foundation
+
+arrow
+Head of Operations
+
+Glenmark Aquatic Foundation
+
+Palak Jain
+Palak Jain
+Assistant Manager ( Performance Marketing )
+
+GaragePlug
+
+arrow
+Assistant Manager ( Performance Marketing )
+
+Sobha Ltd.
+
+Ritika Saxena
+Ritika Saxena
+Campaign Manager
+
+bse2nse.com
+
+arrow
+Campaign Manager
+
+Insane Marketers
+
+Brijesh Jadav
+Brijesh Jadav
+Lead Content Strategist
+
+VerSe Innovation
+
+arrow
+Lead Content Strategist
+
+VerSe Innovation
+
+Rohit Goidani
+Rohit Goidani
+GM Marketing
+
+Nexzu Mobility
+
+arrow
+AVP Marketing
+
+Xanadu
+
+Trishila Malhotra
+Trishila Malhotra
+Co-Founder
+
+Self-employed
+
+arrow
+Business Strategy and Marketing Consultant
+
+Freshponics
+
+Rohit Kapoor
+Rohit Kapoor
+Brand Partner Specialist - Systems
+
+Shoptimize
+
+arrow
+Brand Partner Specialist - Systems
+
+IBM
+
+Arpan Srivastava
+Arpan Srivastava
+Founder Director
+
+Estilo Electronics & Services Pvt Ltd
+
+arrow
+Founder Director
+
+DigitMaestro
+
+Aniket Nadkar
+Aniket Nadkar
+Growth & Marketing Lead
+
+Tidal7 Asia
+
+arrow
+Growth Marketer
+
+the nestery
+
+Punit Mahajan
+Punit Mahajan
+Paid Marketing Manager
+
+Mapplinks - Growth Marketing Company
+
+arrow
+Paid Marketing Manager
+
+Hype Partners
+
+Roopesh Bhosle
+Roopesh Bhosle
+SEO & App Store Optimization - Manager
+
+Oddbox Designs
+
+arrow
+Digital Marketer
+
+botpresso
+
+Tushar Nair
+Tushar Nair
+Growth - Marketing and Brand Partnership
+
+Favcy Venture Builders
+
+arrow
+Lead - Growth and Traction
+
+QuizKart
+
+Gopinath Perkinian
+Gopinath Perkinian
+Product Manager
+
+Thryve Digital Health LLP
+
+
+
+
+
+
+Skill Up, Scale Up
+
+Upskill your Team; Upscale your Business
+Elevate your team's skills to fuel efficiency and ongoing innovation for sustained business growth.
+
+Upskill Your Team
+Why learn with Our Crazy code?
+Self-paced video content
+Self-paced video content
+Master new skills on your schedule with our flexible, self-paced video content.
+
+Office hours with Mentors for clearing blockers
+Office hours with Mentors for clearing blockers
+Overcome challenges fast with dedicated mentor office hours.
+
+Project driven approach to achieve outcomes
+Project driven approach to achieve outcomes
+Gain practical skills through our project-driven approach for real results.
+
+Access to network of 5000+ learners
+Access to network of 5000+ learners
+Tap into our vibrant network of learners, enhancing your
+
+
+5️⃣ ABOUT PAGE (FINAL CONTENT)
+ABOUT OUR CRAZY CODE
+
+Our Crazy Code is a technology education company focused on building strong technical foundations through structured programs, hands-on projects, and practical learning.
+
+The platform was built to make high-quality tech education accessible, relevant, and outcome-driven.
+
+FOUNDER SECTION
+
+Founder & CEO: MAS Abhijeet
+
+Content:
+Founded at the age of 12, Our Crazy Code was built with a clear vision—to make advanced technology education practical and accessible. Today, the platform has trained over 5,000 students globally, delivering real-world skills in coding and artificial intelligence.
+
+6️⃣ SUCCESS STORIES PAGE
+CONTENT:
+
+Student testimonials
+
+Project screenshots
+
+Before & after learning journeys
+
+Portfolio links
+
+7️⃣ CONTACT PAGE
+
+Contact Information:
+
+Email
+
+WhatsApp
+
+Location (Country-based)
+
+Social media icons
+
+Form Fields:
+
+Name
+
+Email
+
+Phone
+
+Message
+
+CTA: Submit Inquiry
+
+8️⃣ FOOTER (FINAL)
+
+Sections:
+
+About Our Crazy Code
+
+Courses
+
+Programs
+
+Contact
+
+Privacy Policy
+
+Terms & Conditions
+
+Footer Line:
+© Our Crazy Code. All rights reserved.
+
+9️⃣ BACKEND (FULL SYSTEM)
+Technology Stack (Backend)
+
+Node.js
+
+Express.js
+
+MongoDB
+
+Stripe / Razorpay (payments)
+
+JWT Authentication
+
+CORE BACKEND FEATURES
+
+User authentication (login/signup)
+
+Course management
+
+Batch scheduling
+
+Payment handling
+
+Enrollment tracking
+
+Email notifications
+
+Admin dashboard
+
+DATABASE STRUCTURE (SUMMARY)
+Users
+
+Name
+
+Email
+
+Password (hashed)
+
+Enrolled courses
+
+Courses
+
+Title
+
+Description
+
+Price
+
+Duration
+
+Curriculum
+
+Payments
+
+User ID
+
+Course ID
+
+Payment status
+
+Transaction ID
+
+ADMIN PANEL
+
+Add/Edit courses
+
+Manage batches
+
+Track enrollments
+
+View payments
+
+Export data
+
+🔟 FINAL RESULT
+
+This structure gives you:
+
+A professional, scalable website
+
+Clear course monetization
+
+End-to-end booking system
+
+Investor-ready platform
+
+AI-friendly for code generation
